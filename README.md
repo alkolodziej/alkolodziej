@@ -1,28 +1,28 @@
 # Alan Kołodziej
 
-Final-year Computer Science student at Kielce University of Technology, interested in software development, business systems and process automation.
+Final-year Computer Science student at Kielce University of Technology with experience in web development, business software, customer service and sales.
 
-I combine experience in developing software with practical knowledge of customer service, sales and restaurant operations.
+Interested in software development, AI integrations, process automation and software implementation.
 
 ## Selected projects
 
 | Project | Description |
 | --- | --- |
-| Restaurant POS & KDS | Engineering thesis project based on practical restaurant experience. Includes table management, order processing and kitchen display functionality. In development. |
+| Restaurant POS & KDS | Ongoing engineering thesis project based on practical restaurant experience. Table management, order processing and real-time kitchen displays. |
 | Commercial CRM | Business software for a renewable energy company, co-developed in a two-person team using React, Django and PostgreSQL. |
-| SzkieletorMaker | Independently developed web product that reached over 87,000 unique users without paid advertising. Completed project. |
-| [Worktime Manager](https://github.com/alkolodziej/worktime-manager) | Mobile prototype for restaurant staff scheduling, time tracking and shift management. |
+| SzkieletorMaker | Independently developed web product that reached over 87,000 users and 174,000 sessions without paid advertising. Completed project. Case study available in the Featured section of my LinkedIn profile. |
+| Urban Aesthetics Guardian | Four-person hackathon project using AI models for image analysis and urban incident classification. |
+| [Worktime Manager](https://github.com/alkolodziej/worktime-manager) | Team prototype for employee scheduling, time tracking and shift management. |
 | [Library Management System](https://github.com/alkolodziej/library-inmemory-ts) | Full-stack TypeScript team project with custom data structures and in-memory data storage. |
-| [Wedding Planner](https://github.com/alkolodziej/wedding-planner) | Event management application built with React and Spring Boot. |
-| [Article-to-HTML Converter](https://github.com/alkolodziej/article-to-HTML-AI-Oxido) | Content processing automation using Node.js and OpenAI API. |
+| [Wedding Planner](https://github.com/alkolodziej/wedding-planner) | Team project built with React and Spring Boot. My contributions include HTTP integration tests and JWT authentication tests. |
+| [Article-to-HTML Converter](https://github.com/alkolodziej/article-to-HTML-AI-Oxido) | Individual recruitment exercise involving content processing with Node.js and OpenAI API. |
 
 ## Technologies
 
-- Frontend: TypeScript, JavaScript, React, HTML, CSS, Material UI
-- Backend: Node.js, Express, Python, Django, REST APIs
+- Frontend: TypeScript, JavaScript, React, HTML, CSS, Material UI, Tailwind CSS
+- Backend: Node.js, Express, Fastify, Python, Django, REST APIs
 - Databases: PostgreSQL, MySQL, SQL
 - Tools: Git, Postman, Docker
-- Other interests: AI integrations, business software and workflow automation
 
 ## Experience
 
